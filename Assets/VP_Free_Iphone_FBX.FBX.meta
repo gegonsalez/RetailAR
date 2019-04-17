@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: b721e12b5a90dff44af1c67d0c253962
+timeCreated: 1508109709
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: VP_Free_Iphone
+    100002: //RootNode
+    100004: VP_Free_Iphone_Stand
+    400000: VP_Free_Iphone
+    400002: //RootNode
+    400004: VP_Free_Iphone_Stand
+    2100000: GRAPHITE_PLASTIC
+    2100002: WOOD
+    2100004: CASE
+    2100006: GLASS
+    2100008: STEEL
+    2100010: BLACK_MAT
+    2100012: DARKGRAY_PLASTIC
+    2100014: SCREEN
+    2100016: LENS
+    2100018: LENS_HOLOGRAM
+    2100020: SPEAKER_MESH
+    2100022: CASE_GLOSS
+    2300000: VP_Free_Iphone
+    2300002: VP_Free_Iphone_Stand
+    3300000: VP_Free_Iphone
+    3300002: VP_Free_Iphone_Stand
+    4300000: VP_Free_Iphone_Stand
+    4300002: VP_Free_Iphone
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_MAT
+    second: {fileID: 2100000, guid: 6149b89be95203148a08d37575989607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CASE
+    second: {fileID: 2100000, guid: 1155e8be17e9f7649ba8e18a8361cf94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CASE_GLOSS
+    second: {fileID: 2100000, guid: e82e07d597b998344991f9b7ac7a531c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DARKGRAY_PLASTIC
+    second: {fileID: 2100000, guid: d780b8dfe7e9148458b00c23ec4f8662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS
+    second: {fileID: 2100000, guid: f6cf705ee28f7d44681d18fe96caa9f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRAPHITE_PLASTIC
+    second: {fileID: 2100000, guid: d560be256b294f94f828d01d272fbfa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LENS
+    second: {fileID: 2100000, guid: 34062047651409c4f9d2b3e77addc31a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LENS_HOLOGRAM
+    second: {fileID: 2100000, guid: 36f8bf1b433c7a44e83575b006f58562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SCREEN
+    second: {fileID: 2100000, guid: 11759082930cbf546a88269166d234b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SPEAKER_MESH
+    second: {fileID: 2100000, guid: 96e354948b573af4fbad9fb9f7e70e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL
+    second: {fileID: 2100000, guid: 8a2e6b1e7cc6791458bfa9379de570da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOOD
+    second: {fileID: 2100000, guid: edae92ae9b2637a45aa28512ee7e64fb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
